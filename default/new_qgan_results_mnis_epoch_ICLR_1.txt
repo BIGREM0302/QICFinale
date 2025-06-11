@@ -1,0 +1,6 @@
+Tracked KL Divergence
+[np.float64(0.6836240090949821)]
+Loss Of Generator
+[np.float64(0.39347672551896523)]
+Loss Of Discriminator
+[np.float64(3.339878036515985)]
