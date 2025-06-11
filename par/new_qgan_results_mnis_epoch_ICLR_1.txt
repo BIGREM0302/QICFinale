@@ -1,0 +1,6 @@
+Tracked KL Divergence
+[0.48057023162514145]
+Loss Of Generator
+[1.2507773861988605]
+Loss Of Discriminator
+[0.9974908090414552]
